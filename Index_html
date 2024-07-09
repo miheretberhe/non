@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equlv-"x-UA-Compatible" content-IE-edge">
+    <meta name-"viewport" content-"width-device-width, initial-scale-1.0">
+    <title> responsive kindergarten website</title>
+    <!--font awesome cdn link-->
+    <link rel="srtlesheet" href=""
+    <!--lightgallery css cdn link -->
+    <link rel="stylesheet" href=""
+    <!--custom css file link -->
+    <link rel="stylesheet" hreft="style.css">
+</head>
+</html>
+
+
+
+
+
+
+
+
+
+
+<!--header section starts -->
+<header class="header">
+
+    <a href="#" class="logo"> <i class="fas fa-school"></i> kindergarten</a>
+
+    <nav class="navbar">
+         <a href="#home">home</a>
+        <a href="#about">about</a>
+        <a href="#education">eudcation</a>
+        <a href="#teachers">teachers</a>
+         <a href="#gallery">gallery</a>
+         <a href="contact">contact</a>
+    </nav>
+    </div class="icons">
+        <div class="fas fa-user" id="login-btn"></div>
+        <div class="fas fa-bars" id="menu-btn"></div>
+    </div>
+
+
+
+    <form action=""class="login-form">
+        <h3>login now<h3>
+        <input type="email" placeholder="your email" class="box">
+        <input type="password" placeholder="your password" class="box">
+        <p>forget your password <a href="#"> click here</a> </p>
+        <input type="submit" value="login now" class="btn">
+    </form>
+
+</header>
+
+
+
+
+
+
+
+
+
+<!--header section ends -->
+
+
