@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+         <meta charset="UTF-8">
+         <meta http-equiv-"x-UA-Compatible" content-IE-edge">
+         <meta name-"viewport" content-"width-device-width, initial-scale-1.0">
+         <title> responsive kindergarten website</title>
+        <!--font awesome cdn link-->
+        <link rel="stylesheet" href="https//cdnjs.cloudflare.com/ajax/libs/font-awsome/5.15.4/css/all.min.css">
+        <!--lightgallery css cdn link-->
+        <link rel="stylesheet" href="
+        <!--custom css file link-->
+        <link rel="stylesheet" href="style.css"
+
+    
+</head>  
+</html>
+
+
+
+
+
+
+
+
+<!--header section starts -->
+<header class="header">
+
+    <a href="#" class="logo"> <i class="fas fa-school"></i> kindergarten</a>
+
+    <nav class="navbar">
+         <a href="#home">home</a>
+        <a href="#about">about</a>
+        <a href="#education">eudcation</a>
+        <a href="#teachers">teachers</a>
+         <a href="contact">contact</a>
+    </nav>
+    </div class="icons">
+        <div class="fas fa-user" id="login-btn"></div>
+        <div class="fas fa-bars" id="menu-btn"></div>
+    </div>
+
+
+
+    <form action=""class="login-form">
+        <h3>login now<h3>
+        <input type="email" placeholder="your email" class="box">
+        <input type="password" placeholder="your password" class="box">
+        <p>forget your password <a href="#"> click here</a> </p>
+        <input type="submit" value="login now" class="btn">
+    </form>
+
+</header>
+
+<!--header section ends -->
+
+<!--home section starts-->
+
+<section class="home">
+    <dev class="conent">
+        <h3>welcome to our<span> kindergarten</span></h3>
+        <p>lorem, ipsum dolor sit amet consectetur adipisicing elit. consequatur minus aut, in maires quiden</p>
+        <a href="#" class="btn>"learn more</a>
+    </dev>
+
+    <div class="image">
+        <img src="716b67cd-5632-4a6b-8276-a7003064f8b1.jpg" alt="">
+        
+</section>
+
+<!--home section ends-->
+
+<!--about us section starts-->
+
+<section class="about" id="about">
+    <h1 class=""heading> <span>about</span>us</h1>
+    <div class="row">
+
+        <div class="image">
+            <img src="images/about us.png"alt="">
+        </div>
+
+        <div class="content">
+            <h3> Come Lets All Explore And Grow Together</h3>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam amet nam distinctio sunt facili e veloci</p>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Laboriosam amet nam distinctio sunt facili e veloci</p>
+            <a href="#" class="btn">read more</a>
+        </div>
+
+
+    </div>
+</section>
+ 
+<!--about us section ends-->
+
+<!--education section start-->
+
+<section class="eudcation" id="eudcation"> 
+
+    <h1 class="heading"> our <span> eudcation</span>span></h1>
+
+    <div class="box-container">
+
+    </div class="box">
+        <h3>Grammar lessons</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.distinctio ration</p>
+        <img src="imag/eudcation"alt="">
+    </div>
+
+    <div class="box">
+        <h3>Math lessons</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.distinctio ration</p>
+        <img src="imag/eudcation2"alt="">
+    </div>
+
+    <div class="box">
+        <h3>sports lessons</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.distinctio ration</p>
+        <img src="imag/eudcation3"alt="">
+    </div>
+    <div class="box">
+        <h3>drawing lessons</h3>
+        <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit.distinctio ration</p>
+        <img src="imag/eudcation4"alt="">
+    </div>
+
+
+
+
+</section>
+
+
+
+
+<!--education section ends-->
